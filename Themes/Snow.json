@@ -1,9 +1,14 @@
 {
   "id": "snow",
   "name": "Snow",
-  "version": 1,
+  "version": 3,
   "author": "SBStudio",
   "description": "Clean white theme. Its dark mode is the original SBCode dark mode.",
+  "metrics": {
+    "uiScale": 1.0,
+    "textScale": 1.0,
+    "cornerScale": 1.0
+  },
   "light": {
     "bgTop": "#F8F9FD",
     "bg": "#F0F3FA",
@@ -33,7 +38,20 @@
     "codeKeyword": "#CF222E",
     "codeNumber": "#0550AE",
     "codeFunction": "#8250DF",
-    "codeSelector": "#953800"
+    "codeSelector": "#953800",
+    "button": "#E3EAFF",
+    "buttonDeep": "#C9D6FF",
+    "onButton": "#1B2A8C",
+    "selection": "#DCE5FF",
+    "onSelection": "#14182B",
+    "buttonOff": "#E4E8F1",
+    "onButtonOff": "#9AA3BC",
+    "folder": "#2F6FE0",
+    "scrim": "#0F172A",
+    "onClose": "#FFFFFF",
+    "switchThumb": "#FFFFFF",
+    "onTag": "#FFFFFF",
+    "onJs": "#1A1400"
   },
   "dark": {
     "bgTop": "#0B0B10",
@@ -64,6 +82,19 @@
     "codeKeyword": "#C49BFF",
     "codeNumber": "#FFB86C",
     "codeFunction": "#FFD866",
-    "codeSelector": "#E5C07B"
+    "codeSelector": "#E5C07B",
+    "button": "#3D5AFE",
+    "buttonDeep": "#2A2FC9",
+    "onButton": "#FFFFFF",
+    "selection": "#2A2FC9",
+    "onSelection": "#FFFFFF",
+    "buttonOff": "#3A3A44",
+    "onButtonOff": "#8A8A93",
+    "folder": "#4D8DFF",
+    "scrim": "#000000",
+    "onClose": "#111111",
+    "switchThumb": "#FFFFFF",
+    "onTag": "#FFFFFF",
+    "onJs": "#1A1400"
   }
 }
